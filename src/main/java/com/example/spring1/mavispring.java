@@ -25,4 +25,8 @@ public class mavispring {
     public String home() {
         return "Welcome to Home";
     }
+
+    public int add(int a,int b){
+        return (a+b);
+    }
 }
